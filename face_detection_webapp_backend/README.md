@@ -1,5 +1,5 @@
-# SmartBrain-api - v1
-Final project for ZTM course
+# Facedetection_WebAPP
+
 
 1. Clone this repo
 2. Run `npm install`
